@@ -97,7 +97,7 @@ ADH will host a mailing list for community updates, announcements, and opportuni
 
 ## License and Intellectual Property
 
-All ADH documentation and resources are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+All ADH documentation and resources are made available under the **{Creative Commons Attribution 4.0 International License (CC BY 4.0)}(https://creativecommons.org/licenses/by/4.0/)**.
 
 This means:
 
