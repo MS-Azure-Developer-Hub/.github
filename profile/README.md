@@ -82,11 +82,11 @@ The Playbook includes details on:
 ## Resources
 
 * **Official Website:** [Coming Soon]
-* **Charter:** [ADH Charter link placeholder]
-* **Code of Conduct:** [ADH Code of Conduct link placeholder]
+* **Charter:** [ADH Charter link placeholder](https://github.com/MS-Azure-Developer-Hub/.github/blob/main/profile/Charter.md)
+* **Code of Conduct:** [ADH Code of Conduct link placeholder](https://github.com/MS-Azure-Developer-Hub/.github/blob/main/profile/CodeofConduct.md)
 * **Calendar:** [ADH Community Calendar link placeholder]
-* **Policies:** [ADH Data & Security Policy placeholder]
-* **Playbook:** [ADH Operational Guidelines link placeholder]
+* **Policies:** [ADH Data & Security Policy placeholder](https://github.com/MS-Azure-Developer-Hub/.github/blob/main/profile/Policy.md)
+* **Playbook:** [ADH Operational Guidelines link placeholder](https://github.com/MS-Azure-Developer-Hub/.github/blob/main/profile/Playbook.md)
 
 ---
 
