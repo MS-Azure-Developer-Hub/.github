@@ -8,44 +8,61 @@ ADH operates under the **DevHub platform**, ensuring secure collaboration, data 
 
 ## FAQ
 
-**Why Azure Developer Hub?**
+<details> <summary><strong>Why Azure Developer Hub?</strong></summary>
+
 ADH provides a structured, outcome-driven framework where students gain practical, hands-on experience beyond their curriculum by working on projects, earning certifications, and engaging with mentors and industry leaders.
 
-**What is a Digital Excellence Center?**
+</details> <details> <summary><strong>What is a Digital Excellence Center?</strong></summary>
+
 A DEC is a structured innovation hub within a college where faculty lead, student representatives, and assigned local mentors collaborate on projects across five key domains:
 
-* Web Development
-* Cloud & DevOps
-* Artificial Intelligence
-* Security
-* Data
+Web Development
 
-**How does the community structure of ADH work?**
+Cloud & DevOps
+
+Artificial Intelligence
+
+Security
+
+Data
+
+</details> <details> <summary><strong>How does the community structure of ADH work?</strong></summary>
+
 ADH is a layered community consisting of:
 
-* **Digital Excellence Centers (DECs)** inside colleges.
-* **Expert Pool** of mentors, MVPs, and product advocates.
-* **Incubation Hub** to support startup-ready projects.
-* **Regional and National Leadership** to ensure governance and growth.
+Digital Excellence Centers (DECs) inside colleges.
 
-**What is the Expert Pool and who are the mentors?**
+Expert Pool of mentors, MVPs, and product advocates.
+
+Incubation Hub to support startup-ready projects.
+
+Regional and National Leadership to ensure governance and growth.
+
+</details> <details> <summary><strong>What is the Expert Pool and who are the mentors?</strong></summary>
+
 The Expert Pool consists of industry professionals, MVPs, Microsoft Learn Student Ambassadors (MLSAs), and regional specialists who guide students, deliver sessions, and mentor projects at the college level.
 
-**What is the Incubation Hub?**
+</details> <details> <summary><strong>What is the Incubation Hub?</strong></summary>
+
 The Incubation Hub is designed to accelerate high-potential projects emerging from DECs. Experts and startup mentors provide guidance, helping student teams refine their ideas, build prototypes, and explore entrepreneurial pathways.
 
-**How do I join the community?**
+</details> <details> <summary><strong>How do I join the community?</strong></summary>
 
-* Students and faculty can apply to set up a **Digital Excellence Center** in their college.
-* Professionals can apply to join the **Expert Pool**.
-* Incubators and industry partners can join through the **Incubation Hub collaboration pathway**.
+Students and faculty can apply to set up a Digital Excellence Center in their college.
 
-**What guidance can we expect from mentors and experts?**
-Experts will support project development, run sessions, and work with faculty to ensure students complete at least one high - quality project per quarter in their chosen domain.
+Professionals can apply to join the Expert Pool.
 
-**What is a charter?**
-The **ADH Charter** is the guiding document outlining the mission, structure, governance, and responsibilities of all participants in the Azure Developer Hub community.
+Incubators and industry partners can join through the Incubation Hub collaboration pathway.
 
+</details> <details> <summary><strong>What guidance can we expect from mentors and experts?</strong></summary>
+
+Experts will support project development, run sessions, and work with faculty to ensure students complete at least one high-quality project per quarter in their chosen domain.
+
+</details> <details> <summary><strong>What is a charter?</strong></summary>
+
+The ADH Charter is the guiding document outlining the mission, structure, governance, and responsibilities of all participants in the Azure Developer Hub community.
+
+</details>
 ---
 
 ## Governance Playbook
